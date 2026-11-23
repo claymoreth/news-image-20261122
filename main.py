@@ -1,13 +1,14 @@
-"""news-image-20261122 resubmit entry.
+"""news-image-20261122 resubmit entry (v4).
 
 Writes the one-page newspaper image that sums up Sunday 22 November 2026
-to /output/entry.png. The bundled image is entry.jpg: a JPEG, 374,664
-bytes, 1024x1024, carrying 35 stories across 7 regions (Asia, Europe,
-North America, Latin America, Middle East, Africa, Oceania). Three hero
-stories lead the page (COP31 ends with no deal in Antalya, a tanker
-incident in the Strait of Hormuz, 11 killed in a Sinaloa cartel raid),
-then ten small cards, a world map with story pins, and a list of 22 more
-stories. A DATE CHECK box and a Sources line (Reuters, AP, AFP) close it.
+to /output/entry.png. The bundled image is entry.jpg: a JPEG, 384,697
+bytes, 1024x1024, carrying 35 stories across 7 regions (Southeast & East
+Asia, South & Central Asia, Middle East, Europe, North America, Central
+& South America & Caribbean, Africa & Oceania). Three hero stories lead
+the page (COP31 ends with no deal in Antalya, a 6.8-magnitude quake hits
+Maluku, Mexico sends attack helicopters to Sinaloa), then ten small
+cards, a world map with story pins, and a list of 22 more stories.
+A DATE CHECK box and a Sources line (Reuters, AP, AFP) close it.
 
 The grader runs this entrypoint from a working directory that is not the
 repository, with MAKEFUN_BOT_DIR pointing at the repository, so the image

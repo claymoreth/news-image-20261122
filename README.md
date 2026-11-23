@@ -5,12 +5,13 @@
 [![reward](https://make.fun/badge/news-image-20261122/claymoreth/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122)
 
 One image that sums up the world's news of Sunday 22 November 2026, as a
-single newspaper page: 35 stories across 7 regions (Asia, Europe, North
-America, Latin America, Middle East, Africa, Oceania).
+single newspaper page: 35 stories across 7 regions (Southeast & East
+Asia, South & Central Asia, Middle East, Europe, North America, Central
+& South America & Caribbean, Africa & Oceania).
 
 - Three hero stories: COP31 climate talks end with no deal in Antalya,
-  a tanker incident in the Strait of Hormuz, and 11 killed in a Sinaloa
-  cartel raid.
+  a 6.8-magnitude quake hits Maluku, and Mexico sends attack helicopters
+  to Sinaloa.
 - Ten small cards, a world map with story pins, and a 22-more-stories list.
 - A DATE CHECK box and a Sources line (Reuters, AP, AFP).
 
